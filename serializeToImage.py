@@ -1,10 +1,10 @@
-#              Simple Serialize-to-Image                 #
-# ====================================================== #
-# author: Spidertyler2005                                #
-# github: github.com/spidertyler2005/serialize-to-image  #
-# License: MIT                                           #
-# py-version: 3.11.*                                     #
-# ------------------------------------------------------ #
+#                 Simple Serialize-to-Image                    #
+# ============================================================ #
+# author: Spidertyler2005                                      #
+# github: github.com/spidertyler2005/Simple-Serialize-to-Image #
+# License: MIT                                                 #
+# py-version: 3.11.*                                           #
+# ------------------------------------------------------------ #
 
 from pathlib import Path
 from types import GenericAlias
