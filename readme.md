@@ -6,7 +6,7 @@ It generates images like this:
 <br>
 <img src="test.png" width=300>
 
-*some upscaling artifactions - sorry*
+*some upscaling artifacts - sorry*
 
 This examples contains a lot of randomized data.
 
