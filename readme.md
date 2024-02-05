@@ -47,7 +47,7 @@ ensure all your surfaces have adequate space to store your data!
 **Required methods**
 
 * `get_at(self, pos: position) -> pxl`
-* `get_at(self, pos: position, pixel: pxl)`
+* `set_at(self, pos: position, pixel: pxl)`
 * `get_width(self) -> int`
 * `get_height(self) -> int`
 
