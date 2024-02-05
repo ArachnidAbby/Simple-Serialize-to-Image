@@ -176,7 +176,7 @@ class ImgHandler:
     def read_next_object(self, cls: ImgSerializable.__class__) -> ImgSerializable:
         return cls.img_deserialize(self)
     
-    def read_next(self, typ: type) -> int|str|ImgSerializable|list:
+    def read_next(self, typ: type) -> int | str | ImgSerializable | list:
         if typ == int:
             return self.read_next_i64()
         if typ == str:
