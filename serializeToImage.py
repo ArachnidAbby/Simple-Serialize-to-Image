@@ -1,7 +1,7 @@
 #                 Simple Serialize-to-Image                    #
 # ============================================================ #
-# author: Spidertyler2005                                      #
-# github: github.com/spidertyler2005/Simple-Serialize-to-Image #
+# author: ArachnidAbby                                         #
+# github: github.com/ArachnidAbby/Simple-Serialize-to-Image    #
 # License: MIT                                                 #
 # py-version: 3.11.*                                           #
 # ------------------------------------------------------------ #
